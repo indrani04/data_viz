@@ -1,2 +1,3 @@
 # data_viz
 data visualization beginners guide
+When embarking on my data science journey, I quickly realized the importance of exploratory data analysis and the power of visualizing data through various plots. However, I often found myself overwhelmed and unsure of how to effectively utilize these plots to gain insights. Hours would slip away as I struggled to make progress. Determined to overcome this obstacle, I delved into numerous blogs, documentations, and books to deepen my understanding. The result? A comprehensive cheat sheet that demystifies the usage of these plots for analyzing data in general. In this notebook, I aim to share this valuable resource with you using the famous iris dataset whenever applicable
